@@ -1,0 +1,10 @@
+{
+    "center_dac": 0, 
+    "center_signal": 0, 
+    "data": "", 
+    "fmt": ">ff", 
+    "high_dac": 0, 
+    "high_signal": 0, 
+    "low_dac": 0, 
+    "low_signal": 0
+}

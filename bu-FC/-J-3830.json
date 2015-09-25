@@ -1,0 +1,78 @@
+{
+    "aliquot": 3830, 
+    "analysis_type": "blank_unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "1 xtal", 
+    "commit": "2a705d45fda7e3c5b6585d76f8eed48ff2eabd33", 
+    "detectors": {
+        "CDD": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "experiment_identifier": "toba", 
+    "extraction": "", 
+    "identifier": "bu-FC-J", 
+    "increment": null, 
+    "irradiation": "NoIrradiation", 
+    "irradiation_level": "A", 
+    "irradiation_position": 3, 
+    "isotopes": {
+        "Ar36": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar40": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "jan", 
+    "material": "blank", 
+    "measurement": "", 
+    "project": "REFERENCES", 
+    "queue_conditionals_name": "", 
+    "sample": "blank_unknown", 
+    "spec_sha": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
+    "timestamp": "2015-03-04T00:34:54", 
+    "username": "", 
+    "uuid": "98c89321-7af2-4d44-b315-6119543a7e85"
+}

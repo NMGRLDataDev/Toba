@@ -1,0 +1,82 @@
+{
+    "aliquot": 2003, 
+    "analysis_type": "cocktail", 
+    "collection_version": "0.1:0.1", 
+    "comment": "E:7:274, 1.0.63 mg", 
+    "commit": "2a705d45fda7e3c5b6585d76f8eed48ff2eabd33", 
+    "detectors": {
+        "AX": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "experiment_identifier": "toba", 
+    "extraction": "", 
+    "identifier": "c-01-j", 
+    "increment": null, 
+    "irradiation": "NoIrradiation", 
+    "irradiation_level": "A", 
+    "irradiation_position": 4, 
+    "isotopes": {
+        "Ar36": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "jan", 
+    "material": "gas", 
+    "measurement": "", 
+    "project": "REFERENCES", 
+    "queue_conditionals_name": "", 
+    "sample": "cocktail", 
+    "spec_sha": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
+    "timestamp": "2015-02-27T10:51:21", 
+    "username": "", 
+    "uuid": "4e3d892c-d91c-45fc-9c57-38535c4337d9"
+}
